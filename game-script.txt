@@ -1,0 +1,9 @@
+introductie: 
+Guard: Hey you there D-class! Are you alright what happened to you? If you don't get up now I will get you terminated!
+Announcer: Attention all personal! The site is experiencing several Keter and Euclid level containment breaches full site lockdown innitiated!
+Guard: Oh no. We need to get to the safe zone, now! 
+*Guard gets grabbed by 106* As you see the guard get grabbed by 106 and dissapear in the ground! You run away for a total of 5 
+hallways and you run out of breath. 
+
+Start game:
+You are now in a corridor with 2 ways, on the left is a doorway, on the right of it is an elevator. Where do you go? (answer with left or right
