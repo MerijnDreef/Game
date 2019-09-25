@@ -1,4 +1,11 @@
 body {
     background-image: url("img/game5.jpg");
-    
+    text-align: center;
+ 
+}
+h2 {
+    color: blue;
+}
+div.a {
+    transition-delay: 2s;
 }

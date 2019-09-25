@@ -4,15 +4,26 @@
             
         <link rel="stylesheet" href="css/game.css">
         <style>
-        
+        .diffcolor{
+           color : white
+        }
         </style>
-    
-       
-    
+        
     </head>
-    
 
         <body>
+            <button onclick="myFunction()">Start the game?</button>
+            
+            <p id="demo"></p>
+            
+           
+            <script>
+            function myFunction() {
+              document.getElementById("demo").innerHTML = "<h2>"+"Guard: Hey you there D-class! Are you alright what happened to you? If you don't get up now I will get you terminated!"+"</h2>";
+           
+             document.getElementById("demo").innerHTML = "<h2 class='diffcolor'>"+"Guard on speakers: Attention all personal! The site is experiencing several Keter and Euclid level containment breaches full site lockdown innitiated!"+"</h2>";
+            }
+            </script>
 
 
 
