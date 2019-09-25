@@ -6,6 +6,3 @@ body {
 h2 {
     color: blue;
 }
-div.a {
-    transition-delay: 200s;
-}

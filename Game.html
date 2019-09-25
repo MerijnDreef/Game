@@ -5,18 +5,22 @@
         <link rel="stylesheet" href="css/game.css">
         <style>
         .diffcolor{
-           color : white
+           color : red
+        }
+        .diffcolor1{
+            color: white
         }
         </style>
         
     </head>
 
         <body>
-            <button onclick="myFunction()">Start the game?</button>
+            <button onclick="myFunction()">Begin introduction?</button>
             
             <p id="demo"></p>
             <p id="demo2"></p>
             <p id="demo3"></p>
+            <p id="demo4"></p>
             
            
             <script>
@@ -25,10 +29,21 @@
                          
               setTimeout(function(){ document.getElementById("demo2").innerHTML = "<h2 class='diffcolor'>"+"Guard on speakers: Attention all personal! The site is experiencing several Keter and Euclid level containment breaches full site lockdown innitiated!"+"</h2>";} , 2000);}
             
-              setTimeout(function(){ document.getElementById("demo2").innerHTML = "<h2>"+"Guard: Oh no. We need to get to the safe zone, now!+"+"</h2>";} , 4000);}
+              setTimeout(function(){ document.getElementById("demo3").innerHTML = "<h2>"+"Guard: Oh no. We need to get to the safe zone, now!"+"</h2>";} , 6000);
+              
+              setTimeout(function(){ document.getElementById("demo4").innerHTML = "<h2 class='diffcolor1'>"+"As you run through several hallways, you see the guard get grabbed by 106 and dissapear in the ground!"+"<br>"+"Meanwhile you run away as he screams in fear, you ran through a total of 5 hallways and ran out of breath."+"</h2>";} , 8000);
             </script>
 
-
+            <button onclick="myFunction1()">Start the game?</button>
+            <p id="starting"></p>
+            <script>
+                function myFunction1() {
+            document.getElementById("starting").innerHTML = '<script src="game.js"></script>';
+            }
+           </script>
+            
+            
+            
 
         </body>
 
