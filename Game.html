@@ -16,14 +16,16 @@
             
             <p id="demo"></p>
             <p id="demo2"></p>
+            <p id="demo3"></p>
             
            
             <script>
             function myFunction() {
               document.getElementById("demo").innerHTML = "<h2>"+"Guard: Hey you there D-class! Are you alright what happened to you? If you don't get up now I will get you terminated!"+"</h2>";
+                         
+              setTimeout(function(){ document.getElementById("demo2").innerHTML = "<h2 class='diffcolor'>"+"Guard on speakers: Attention all personal! The site is experiencing several Keter and Euclid level containment breaches full site lockdown innitiated!"+"</h2>";} , 2000);}
             
-              document.getElementById("demo2").innerHTML = "<h2 class='diffcolor'>"+"Guard on speakers: Attention all personal! The site is experiencing several Keter and Euclid level containment breaches full site lockdown innitiated!"+"</h2>";
-            }
+              setTimeout(function(){ document.getElementById("demo2").innerHTML = "<h2>"+"Guard: Oh no. We need to get to the safe zone, now!+"+"</h2>";} , 4000);}
             </script>
 
 
