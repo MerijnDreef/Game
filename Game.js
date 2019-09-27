@@ -55,7 +55,9 @@ alert("As you run through several hallways, you see the guard get grabbed by 106
                                     alert("as you open it the smell makes you sick but you stand strong and go check everything you found out why you are a D-class and what your name is. After that you move on.")
                                     
                                 }
-                                    var decision10 = prompt("You now have a 4 way where do you go? (left, middle, right)")
+                                    
+                                
+                                var decision10 = prompt("You now have a 4 way where do you go? (left, middle, right)")
 
                                     if(decision10 =="left"){
                                         alert("run through some hallways come across office and guards")
@@ -80,7 +82,7 @@ alert("As you run through several hallways, you see the guard get grabbed by 106
                                 
                             else if(decision8 == "right"){
                                 alert("you encountert SCP-173, but you blinked and seconds later you were on the ground dead")
-                                document.write("You were killed by SCP-173 through snapping of the neck"+"<br>"+"<a href='http://www.scp-wiki.net/scp-173'")
+                                document.write("You were killed by SCP-173 through snapping of the neck")
                                 }
                             
                         }
@@ -121,24 +123,25 @@ alert("As you run through several hallways, you see the guard get grabbed by 106
                                                 alert("You take the right doorway and come across Gate A, you open teh gate and take the elevator up. as you go out of the elevator you see SCP-106 emerge from the ground and go through the big doorway without doors. He gets hit by helicopters and gun fire, but stands up right without flinching. You take the opppertunity to escape through a doorway that goes to a lower section and to a tunnel that leads to safety, but you are stopped by guards that noticed that you didn't do this in 1 go but in several attempts to escape this breach")
                                             document.write("you didn't die congratulations!")
                                             }
+
                             }
                             else if(decision8 == "right"){
                                 alert("you encountert SCP-173, but you blinked and seconds later you were on the ground dead")
-                                document.write("You were killed by SCP-173 through snapping of the neck"+"<br>"+"<a href='http://www.scp-wiki.net/scp-173'")
+                                document.write("You were killed by SCP-173 through snapping of the neck")
                             }
                         }
                     }
                     else if(decision6 = "enter"){
                         alert("you go in and see a man in white covered in some kind of black goo he asks you to open the door but you refuse and see the documents afterwards you gas him and he escapes with you being killed in the process.")
-                            document.write("you died to being overwhelmed by the goo that melted you."+"<br>"+"<a href='http://www.scp-wiki.net/scp-035'")
+                            document.write("you died to being overwhelmed by the goo that melted you.")
                     }
             
                 }
     
                 else if(decision4 == "enter"){
                     alert("as you go in to see the SCP you come across a button. You press the button and the door opens as you go in you see a paper,")
-                    alert("you go to it and continue writing it with your blood but you die to blood loss as you keep pushing your nails in to your body so you can wright with it."+"<br>"+"<a href='http://www.scp-wiki.net/scp-012'")
-                    document.write("You died to losing too much blood while writing on SCP-012"+"<br>"+"<a href='http://www.scp-wiki.net/scp-012'")
+                    alert("you go to it and continue writing it with your blood but you die to blood loss as you keep pushing your nails in to your body so you can wright with it.")
+                    document.write("You died to losing too much blood while writing on SCP-012")
                 }
 
             }
@@ -149,11 +152,11 @@ alert("As you run through several hallways, you see the guard get grabbed by 106
                 alert("You first check the left doorway, as you open it the hallway has collapsed and seems no way through it.")
                 alert("You try the middle door, it is a dead end with a medkit and you take it with you")
                 alert("as you go to the last door you see guards running away from the doorway while SCP-096 screams at the top of his lungs, you accidently look at his face and you are concidered dead.")
-                document.write("You have been eaten by SCP-096 with only leaving blood as your remains"+"<br>"+"<a href='http://www.scp-wiki.net/scp-096'>")
+                document.write("You have been eaten by SCP-096 with only leaving blood as your remains")
             }
 
     }
     else if(decision1 =="right"){
-    document.write("You went down the elevator, when it arrived you went out and encountert SCP-049 (aka the plague doctor). As you tried to get away from him you got cornered, he then made physical contact with you, followed by you perishing and being turned into a 'cured' "+"<br>"+"<a href='http://www.scp-wiki.net/scp-049'");
+    document.write("You went down the elevator, when it arrived you went out and encountert SCP-049 (aka the plague doctor). As you tried to get away from him you got cornered, he then made physical contact with you, followed by you perishing and being turned into a 'cured'");
     }
    
