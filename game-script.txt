@@ -5,18 +5,38 @@ Guard: Oh no. We need to get to the safe zone, now!
 As you run through several hallways the Guard gets grabbed by 106, you see the guard get grabbed by 106 and dissapear in the ground! Meanwhile you run away as he screams in fear,
 you ran for a total of 5 hallways and you run out of breath. 
 
-Start game:
+1Start game:
 You are now in a corridor with 2 ways, on the left is a doorway, on the right of it is an elevator. Where do you go? (answer with left or right)
 (left): continueation story.
 (Right):cornert by scp-049
 
-Keycard choice
+2Keycard choice:
 (Left): upgrade keycard and room see guard get killed by scp-096 and you look away from it and check all doors(they get medkit:3)
 (Right):Open 2 doors and die to scp-096
 
 106 encounter
 As you avoid SCP-096 you go through the door and close it behind you, you look away from the door and see alot of blood around the hallway and pieces of guard uniforms.
 You run through all of the destruction and while you are running you hear a old dark laugh, you turn around and it is 106! You run through what seems like endless corridors.
-After a while 106 leave you alone as he is unable to get you, but you are now seeing a checkpoint! You go through it with your keycard and run but you hear concrete scraping.
+
+3You come across a 2 way
+(left): you enter a large room with a giant box. You see a doorway, as you go through it you see a big button, you click on it and then you hear screaming and scp-106 dissapearing.
+(right): you go through the doorway and after you through it scp-106 is unable to gatch up and you escape from his grasp.
+
+you are now seeing a checkpoint! You go through it with your keycard and run but you hear concrete scraping.
 It is scp-173! You keep eye contact with him. you walk past him without blinking, open the door behind you and close it.
-You now have a 4 way where do you go?
+
+4You now have a 4 way where do you go? (left, middle, right)
+(left):run through some hallways come across office and guards (death)
+(middle):You run through computer office past it and to a 2 way (left is Gate B, right is Gate A)
+(right):You go through the hallways and encounter guards (death)
+
+5Gate (106 is contained)
+(left):You take the left doorway and come across Gate B, you open the gate and take the elevator up. As you go out of the elevator you see a dead guard, you take his body armor. Meanwhile you look left and see guards on the catwalkready to shoot you, you run past the to the left into a doorway where behind is a safe zone with a bit of a long hallway, halfway through that corridor you hear SCP-682 roar. 
+While you run you hear screaming and roaring behind you, you enter the safe zone only to hear that the nukes are going off. You died in the explosion(bad ending)
+(right): You take the right doorway and come across Gate A, you open teh gate and take the elevator up. as you go out of the elevator you see guards go through the big doorway without doors. You surrender yourself to them and they noticed that you didn't do this in 1 go but in several attempts to escape this breach
+
+6Gate (106 is not contained)
+(left): You take the left doorway and come across Gate B, you open the gate and take the elevator up. As you go out of the elevator you see a dead guard, you take his body armor. Meanwhile you look left and see guards on the catwalkready to shoot you, you run past the to the left into a doorway where behind is a safe zone with a bit of a long hallway, halfway through that corridor you hear SCP-682 roar and SCP-106 laughing. 
+While you run you hear screaming and roaring behind you, you enter the safe zone only to hear that the nukes are going off. You died in the explosion(bad ending)
+(right): You take the right doorway and come across Gate A, you open teh gate and take the elevator up. as you go out of the elevator you see SCP-106 emerge from the ground and go through the big doorway without doors. He gets hit by helicopters and gun fire, but stands up right without flinching.
+You take the opppertunity to escape through a doorway that goes to a lower section and to a tunnel that leads to safety, but you are stopped by guards that noticed that you didn't do this in 1 go but in several attempts to escape this breach
