@@ -14,28 +14,53 @@ You are now in a corridor with 2 ways, on the left is a doorway, on the right of
 (Left): upgrade keycard and room see guard get killed by scp-096 and you look away from it and check all doors(they get medkit:3)
 (Right):Open 2 doors and die to scp-096
 
-106 encounter
-As you avoid SCP-096 you go through the door and close it behind you, you look away from the door and see alot of blood around the hallway and pieces of guard uniforms.
-You run through all of the destruction and while you are running you hear a old dark laugh, you turn around and it is 106! You run through what seems like endless corridors.
+3You come across a locked room that requiers a level 3 keycard to open you see it is scp-012. what do you do?
+(continue):You ignore it and continue your journey through the facility
+(you enter): as you go in to see the SCP you come across a button. You press the button and the door opens as you go in you see a paper, you go to it and continue writing it with your blood but you die to blood loss as you keep pushing your nails in to your body so you can wright with it.
 
-3You come across a 2 way
+As you avoid SCP-096 you go through the door and close it behind you, you look away from the door and see alot of blood around the hallway and pieces of guard uniforms.
+You run through all of the destruction and eventually you are far enough and can continue forward without being in danger
+
+4As you continue forward you see SCP-714
+(grab the jade ring): you grab your keycard and go in its containment you grab it and you see it's document, you now know that is gives you resiliance to damage at the cost of reaction time when worn.
+(leave it): You think it is to be ignored and continue forward
+
+5After like 10 hallways you encounter SCP-035 containment what do you do?
+(go in and check): you go in and see a man in white covered in some kind of black goo he asks you to open the door but you refuse and see the documents afterwards you gas him and he escapes with you being killed in the process.
+(leave it): you go on forward and ignore it
+
+You then see a checkpoint out of light containment you run to it and open the doors followed by you going in an elevator to the heavy containment zone but then 
+106 encounter
+while you are walking you hear a old dark laugh, you turn around and it is 106! You run through what seems like endless corridors.
+
+6You come across a 2 way:
 (left): you enter a large room with a giant box. You see a doorway, as you go through it you see a big button, you click on it and then you hear screaming and scp-106 dissapearing.
 (right): you go through the doorway and after you through it scp-106 is unable to gatch up and you escape from his grasp.
+
+(contained)After the encounter with scp-106 
+7After encounter scp-106:
+(left):as you go left you see stairs going down to a server room you go through it and come across a checkpoint 
+(right): you encounter scp-173
+
 
 you are now seeing a checkpoint! You go through it with your keycard and run but you hear concrete scraping.
 It is scp-173! You keep eye contact with him. you walk past him without blinking, open the door behind you and close it.
 
-4You now have a 4 way where do you go? (left, middle, right)
+8you see an office with a bit of black goo coming out what do you do?
+(open it): as you open it the smell makes you sick but you stand strong and go check everything you found out why you are a D-class and what your name is. After that you move on.
+(leave it): you ignore it and move on
+
+9You now have a 4 way where do you go? (left, middle, right)
 (left):run through some hallways come across office and guards (death)
 (middle):You run through computer office past it and to a 2 way (left is Gate B, right is Gate A)
-(right):You go through the hallways and encounter guards (death)
+(right):You go through the doorway to see a room with a doorway and a gate like way you go through the gate like way and see SCP-079. He asks for door controls and you go do that and he helps you escape
 
-5Gate (106 is contained)
+10Gate (106 is contained)
 (left):You take the left doorway and come across Gate B, you open the gate and take the elevator up. As you go out of the elevator you see a dead guard, you take his body armor. Meanwhile you look left and see guards on the catwalkready to shoot you, you run past the to the left into a doorway where behind is a safe zone with a bit of a long hallway, halfway through that corridor you hear SCP-682 roar. 
 While you run you hear screaming and roaring behind you, you enter the safe zone only to hear that the nukes are going off. You died in the explosion(bad ending)
-(right): You take the right doorway and come across Gate A, you open teh gate and take the elevator up. as you go out of the elevator you see guards go through the big doorway without doors. You surrender yourself to them and they noticed that you didn't do this in 1 go but in several attempts to escape this breach
+(right): You take the right doorway and come across Gate A, you open the gate and take the elevator up. as you go out of the elevator you see guards go through the big doorway without doors. You surrender yourself to them and they noticed that you didn't do this in 1 go but in several attempts to escape this breach
 
-6Gate (106 is not contained)
+11Gate (106 is not contained)
 (left): You take the left doorway and come across Gate B, you open the gate and take the elevator up. As you go out of the elevator you see a dead guard, you take his body armor. Meanwhile you look left and see guards on the catwalkready to shoot you, you run past the to the left into a doorway where behind is a safe zone with a bit of a long hallway, halfway through that corridor you hear SCP-682 roar and SCP-106 laughing. 
 While you run you hear screaming and roaring behind you, you enter the safe zone only to hear that the nukes are going off. You died in the explosion(bad ending)
 (right): You take the right doorway and come across Gate A, you open teh gate and take the elevator up. as you go out of the elevator you see SCP-106 emerge from the ground and go through the big doorway without doors. He gets hit by helicopters and gun fire, but stands up right without flinching.
