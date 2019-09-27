@@ -1,9 +1,22 @@
 introductie: 
 Guard: Hey you there D-class! Are you alright what happened to you? If you don't get up now I will get you terminated!
-Announcer: Attention all personal! The site is experiencing several Keter and Euclid level containment breaches full site lockdown innitiated!
+Guard on speakers: Attention all personal! The site is experiencing several Keter and Euclid level containment breaches full site lockdown innitiated!
 Guard: Oh no. We need to get to the safe zone, now! 
-*Guard gets grabbed by 106* As you see the guard get grabbed by 106 and dissapear in the ground! You run away for a total of 5 
-hallways and you run out of breath. 
+As you run through several hallways the Guard gets grabbed by 106, you see the guard get grabbed by 106 and dissapear in the ground! Meanwhile you run away as he screams in fear,
+you ran for a total of 5 hallways and you run out of breath. 
 
 Start game:
-You are now in a corridor with 2 ways, on the left is a doorway, on the right of it is an elevator. Where do you go? (answer with left or right
+You are now in a corridor with 2 ways, on the left is a doorway, on the right of it is an elevator. Where do you go? (answer with left or right)
+(left): continueation story.
+(Right):cornert by scp-049
+
+Keycard choice
+(Left): upgrade keycard and room see guard get killed by scp-096 and you look away from it and check all doors(they get medkit:3)
+(Right):Open 2 doors and die to scp-096
+
+106 encounter
+As you avoid SCP-096 you go through the door and close it behind you, you look away from the door and see alot of blood around the hallway and pieces of guard uniforms.
+You run through all of the destruction and while you are running you hear a old dark laugh, you turn around and it is 106! You run through what seems like endless corridors.
+After a while 106 leave you alone as he is unable to get you, but you are now seeing a checkpoint! You go through it with your keycard and run but you hear concrete scraping.
+It is scp-173! You keep eye contact with him. you walk past him without blinking, open the door behind you and close it.
+You now have a 4 way where do you go?
