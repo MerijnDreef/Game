@@ -1,9 +1,6 @@
 body {
     background-image: url("img/game5.jpg");
     text-align: center;
-    color: red;
-    
-}
-h2 {
+    font-size: 50px;
     color: blue;
 }

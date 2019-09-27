@@ -10,7 +10,7 @@ You are now in a corridor with 2 ways, on the left is a doorway, on the right of
 (left): continueation story.
 (Right):cornert by scp-049
 
-2Keycard choice:
+2Keycard choice:	
 (Left): upgrade keycard and room see guard get killed by scp-096 and you look away from it and check all doors(they get medkit:3)
 (Right):Open 2 doors and die to scp-096
 
@@ -37,7 +37,7 @@ while you are walking you hear a old dark laugh, you turn around and it is 106! 
 (left): you enter a large room with a giant box. You see a doorway, as you go through it you see a big button, you click on it and then you hear screaming and scp-106 dissapearing.
 (right): you go through the doorway and after you through it scp-106 is unable to gatch up and you escape from his grasp.
 
-(contained)After the encounter with scp-106 
+After the encounter with scp-106 
 7After encounter scp-106:
 (left):as you go left you see stairs going down to a server room you go through it and come across a checkpoint 
 (right): you encounter scp-173
