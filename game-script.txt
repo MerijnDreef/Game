@@ -51,9 +51,9 @@ It is scp-173! You keep eye contact with him. you walk past him without blinking
 (leave it): you ignore it and move on
 
 9You now have a 4 way where do you go? (left, middle, right)
-(left):run through some hallways come across office and guards (death)
-(middle):You run through computer office past it and to a 2 way (left is Gate B, right is Gate A)
-(right):You go through the doorway to see a room with a doorway and a gate like way you go through the gate like way and see SCP-079. He asks for door controls and you go do that and he helps you escape
+(left): run through some hallways come across office and guards (death)
+(middle): You run through computer office past it and to a 2 way (left is Gate B, right is Gate A)
+(right): You go through the doorway to see a room with a doorway and a gate like way you go through the gate like way and see SCP-079. He asks for door controls and you go do that and he helps you escape
 
 10Gate (106 is contained)
 (left):You take the left doorway and come across Gate B, you open the gate and take the elevator up. As you go out of the elevator you see a dead guard, you take his body armor. Meanwhile you look left and see guards on the catwalkready to shoot you, you run past the to the left into a doorway where behind is a safe zone with a bit of a long hallway, halfway through that corridor you hear SCP-682 roar. 

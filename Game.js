@@ -11,7 +11,7 @@ alert("As you run through several hallways, you see the guard get grabbed by 106
         if(decision1 =="left") {
             alert("As you went through the doorway you see a dead scientist with a level 3 keycard, you take the scientists key card and continue forward for 10 hallways.");
  
-        var decision2 = prompt("After the ten hallways you see a sign that says:'scp-914' and another doorway (say left or right)");
+        var decision2 = prompt("After the ten hallways you see a sign that says:'scp-914' and another doorway (left or right)");
         if(decision2 == "left"){
             alert("As you use the level 3 keycard on the door it opens and you start upgrading your keycard through 914. After upgrading you decide to continue through the doorway.");
             alert("after you open the doorway you see a guard running followed by him falling on the ground after that he is viciously and horrible ripped apart and eaten by SCP-096")
@@ -24,7 +24,7 @@ alert("As you run through several hallways, you see the guard get grabbed by 106
             if(decision4 == "continue"){
                 alert("You ignore it and continue your journey through the facility")
 
-                var decision5 = prompt("while you you scouring through the hallways you came across another SCP room this time it says it is SCP-714, what do you do?(write continue or enter)")
+                var decision5 = prompt("while you you scouring through the hallways you came across another SCP room this time it says it is SCP-714, what do you do?(continue or enter)")
                 
                 if(decision5 == "continue"){
                     alert("you ignored the SCP and moved one")
